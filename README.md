@@ -1,1 +1,1 @@
-Website: https.//cindyverlitatugas3.vercel.app
+Website: https://cindyverlita-tugas3.vercel.app/
